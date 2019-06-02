@@ -10,5 +10,5 @@ end
 
 def first_element(my_first_element)
   @names = ["george", "kevin", "steven"]
-  my_first_element = @names.first
+  my_first_element = @names[1]
 end
