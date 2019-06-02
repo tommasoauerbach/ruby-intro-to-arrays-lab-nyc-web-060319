@@ -25,5 +25,5 @@ end
 
 def first_element_with_array_methods(first_rapper)
   @nyc_rappers = ["Nas", "Biggie", "Flatbush", "Wutang"]
-  first_element_with_array_methods = @nyc_rappers.first
+  first_rapper = @nyc_rappers.first
 end
