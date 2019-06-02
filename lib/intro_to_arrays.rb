@@ -9,6 +9,6 @@ def array_with_two_elements
 end
 
 def first_element(my_first_element)
-  @names_long = ["george", "kevin", "steven"]
-  my_first_element = @names_long[1]
+  @taylor_swift = ["Welcome to New York", "Blank Space", "Style", "Out of The Woods"]
+  my_first_element = @taylor_swift.first
 end
