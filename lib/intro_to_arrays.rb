@@ -7,5 +7,5 @@ def array_with_two_elements
 end
 
 def first_element
-  people.first
+  puts people.first
 end
