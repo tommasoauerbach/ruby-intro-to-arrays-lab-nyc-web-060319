@@ -28,7 +28,12 @@ def first_element_with_array_methods(first_country)
   first_country = @south_east_asia.first
 end
 
-def last_element_with_array_methods(last_rapper)
-  @nyc_rap = ["Big", "Wu", "Nas", "Hov"]
-  last_rapper = @nyc_rap.last
+def last_element_with_array_methods(last_country)
+  @south_east_asia = ["Thailand", "Cambodia", "Singapore", "Myanmar"]
+  last_country = @south_east_asia.last
+end
+
+ def length_of_array(length)
+  @programming_languages = ["Ruby", "Javascript", "Python", "C++", "Java", "Lisp", "PHP", "Clojure"]
+  length = @programming_languages.length
 end
