@@ -27,3 +27,8 @@ def first_element_with_array_methods(first_country)
   @south_east_asia = ["Thailand", "Cambodia", "Singapore", "Myanmar"]
   first_country = @south_east_asia.first
 end
+
+def last_element_with_array_methods(last_rapper)
+  @nyc_rap = ["Big", "Wu", "Nas", "Hov"]
+  last_rapper = @nyc_rap.last
+end
